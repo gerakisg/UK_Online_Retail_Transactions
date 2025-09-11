@@ -4,7 +4,7 @@
 ## Chen, D. (2015). Online Retail [Dataset]. UCI Machine Learning Repository. https://doi.org/10.24432/C5BW33.
 
 ## Open in Google Colab:
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/gerakisg/UK_Online_Retail_Transactions/blob/main/UK_Online_Retail_Transactions.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/gerakisg/UK_Online_Retail_Transactions/blob/main/Notebook.ipynb)
 
 
 ## This project explores and analyzes the **UK Online Retail Dataset**, a transactional dataset containing e-commerce sales for a UK-based online retailer (2010–2011).  
