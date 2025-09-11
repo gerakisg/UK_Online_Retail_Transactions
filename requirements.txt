@@ -1,0 +1,11 @@
+pandas
+numpy
+matplotlib
+mlxtend
+seaborn
+requests
+scikit-learn
+sqlite3
+warnings
+io
+
