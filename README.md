@@ -8,12 +8,13 @@
 
 
 ## This project explores and analyzes the **UK Online Retail Dataset**, a transactional dataset containing e-commerce sales for a UK-based online retailer (2010–2011).  
-I use Python to clean the data, perform EDA, RFM analysis, Basket Analysis with FP-Growth, then create a database and use SQL to query it.
+I use Python to clean the data, perform EDA, RFM customer segmentation with K-means, Market Basket Analysis with FP-Growth, then use SQL queries for further analysis.
 
 The goal:  
 - Clean and preprocess transactional data  
 - Perform descriptive and diagnostic EDA  
-- Analyze customer behavior (RFM segmentation)  
+- Analyze customer behavior with RFM segmentation
+- Perform Market Basket Analysis
 - Study product performance and returns  
 - Combine SQL + Python workflows for realistic, reproducible analysis  
 
